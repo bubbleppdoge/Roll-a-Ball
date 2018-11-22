@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Game\AnimEvent.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Game\GameBtnCtrl.cs" Line="23" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Game\CameraFollow.cs" Line="25" Column="20" />
+      <File FileName="Assets\Resources\Scripts\Game\GameController.cs" Line="50" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Game\CubeRotate.cs" Line="8" Column="18" />
+      <File FileName="Assets\Resources\Scripts\Game\BallController.cs" Line="32" Column="57" />
+      <File FileName="Assets\Resources\Scripts\Game\AnimEvent.cs" Line="9" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
